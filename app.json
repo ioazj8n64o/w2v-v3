@@ -1,7 +1,7 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray VLESS on Heroku.",
-    "keywords": ["V2Ray"],
+    "name": "w2v-v3",
+    "description": "w2v-v3.",
+    "keywords": ["w2v-v3"],
     "env": {
         "ID": {
             "description": "UUID",
